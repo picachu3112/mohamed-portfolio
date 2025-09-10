@@ -18,7 +18,7 @@ export default function Portfolio() {
             <div className="flex items-center">
               <div className="flex items-center">
                 <img 
-                  src="/photo.jpg" 
+                  src="public/photo.jpg" 
                   alt="Profile Photo" 
                   className="w-8 h-8 rounded-full object-cover"
                 />
