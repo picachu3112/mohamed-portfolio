@@ -139,7 +139,7 @@ export default function Portfolio() {
 
             <div className="flex justify-center">
               <img
-                src="/photo.jpg"
+                src="/public/photo.jpg"
                 alt="Profile Photo"
                 className="w-80 h-80 rounded-lg object-cover"
               />
