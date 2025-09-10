@@ -18,7 +18,7 @@ export default function Portfolio() {
             <div className="flex items-center">
               <div className="flex items-center">
                 <img 
-                  src="public/photo.jpg" 
+                  src="/photo.jpg" 
                   alt="Profile Photo" 
                   className="w-8 h-8 rounded-full object-cover"
                 />
@@ -139,7 +139,7 @@ export default function Portfolio() {
 
             <div className="flex justify-center">
               <img
-                src="mohamed-portfolio/public/photo.jpg"
+                src="/photo.jpg"
                 alt="Profile Photo"
                 className="w-80 h-80 rounded-lg object-cover"
               />
