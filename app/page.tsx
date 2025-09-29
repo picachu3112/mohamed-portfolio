@@ -100,7 +100,7 @@ export default function Portfolio() {
               asChild
             >
               <a
-                href="https://drive.google.com/file/d/12Ddlvlfyb7d4iSepKdpdIjcZxWtJXdee/view?usp=sharing"
+                href="https://drive.google.com/file/d/1QNltVh-nQV8JQM9sOiAPQEvNmPolIoQJ/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
               >
